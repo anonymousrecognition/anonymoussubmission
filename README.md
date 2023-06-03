@@ -1,4 +1,4 @@
-# MOSStereo anonymoussubmition
+# MOSStereo anonymous submition
 ## Introduction
 1st performance in KITTI. Our code will be available later.
 ## News
